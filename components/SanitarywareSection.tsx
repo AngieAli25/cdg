@@ -7,7 +7,7 @@ export default function SanitarywareSection() {
         {/* Content */}
         <div className="flex flex-col gap-4 md:gap-5 lg:gap-[20px] w-full lg:w-[413px] lg:pl-[70px]">
           <h2 className="text-2xl md:text-3xl lg:text-[34px] font-normal leading-[1.2] text-black">
-            Sanitaryware
+            Sanitary Ware
           </h2>
 
           <p className="text-base md:text-lg lg:text-[18px] font-normal leading-[1.5] text-black">
@@ -22,7 +22,7 @@ export default function SanitarywareSection() {
         <div className="relative w-full lg:w-[700px] h-[250px] md:h-[300px] lg:h-[359px] overflow-hidden">
           <Image
             src="/images/img-Sanitari_home.png"
-            alt="Sanitaryware collection"
+            alt="Sanitary Ware collection"
             fill
             className="object-cover"
           />

@@ -108,8 +108,8 @@ const marbleTypes = [
     ]
   },
   {
-    id: 'calacatta-gold',
-    name: 'Calacatta Gold',
+    id: 'calacatta-prestige',
+    name: 'Calacatta Prestige',
     description: 'Iconic and timeless, it features a pure white background crossed by golden and grey veins. A symbol of Italian elegance, ideal for both classic and contemporary spaces.',
     image: '/images/marble/calacatta-gold-main.png',
     detailImages: ['/images/marble/calacatta-gold-detail.png'],
@@ -294,7 +294,7 @@ export default function MarblePage() {
                     </div>
 
                     <p className="text-lg md:text-xl lg:text-[28px] font-normal mt-6">
-                      Fitness and size on demand
+                      Sizes and thickness on demand
                     </p>
                   </div>
                 </div>

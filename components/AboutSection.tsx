@@ -18,12 +18,8 @@ export default function AboutSection() {
         <div className="flex flex-col gap-6 md:gap-8 lg:gap-[36px] w-full lg:w-[460px]">
           <div className="flex flex-col gap-3 md:gap-4 lg:gap-[18px]">
             <h2 className="text-5xl md:text-7xl lg:text-[120px] font-normal leading-[1.2] text-black whitespace-nowrap">
-              about us.
+              About Us.
             </h2>
-
-            <h3 className="text-xl md:text-2xl lg:text-[34px] font-normal leading-[1.2] text-[#212529]">
-              Norman Foster Foundation
-            </h3>
 
             <p className="text-base md:text-lg lg:text-[18px] font-normal leading-[1.5] text-[#212529]">
               With over ten years of experience in the ceramics industry, we design and distribute
